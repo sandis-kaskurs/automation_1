@@ -4,3 +4,5 @@ githubSteps/GitHubSearchSteps.java
  githubSteps.GitHubSearchSteps
 githubSteps/GitHubSearchLanguageSteps.java
  githubSteps.GitHubSearchLanguageSteps
+githubSteps/ExploreSectionSteps.java
+ githubSteps.ExploreSectionSteps

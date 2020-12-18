@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selenide.open;
 public class GitHubSearchSteps implements En {
 
     public GitHubSearchSteps() {
-
+/*
         // Step 1:
         Given("User opens github page", () -> {
             open("https://github.com/");
@@ -17,7 +17,7 @@ public class GitHubSearchSteps implements En {
 
         // Step 2:
         Given("User inputs {string} text value in search bar", (String text) -> {
-            new GitHubHomePage().inputTextInSearchBar(text);
+            new GitHubHomePage().checkDropdown(text);
         });
 
         // Step 3:
@@ -34,5 +34,6 @@ public class GitHubSearchSteps implements En {
         Given("Check if repository is displayed", () -> {
             new GitHubRepositoryViewPage().checkIfRepositoryOpened();
         });
+    }*/
     }
 }

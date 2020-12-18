@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.open;
 public class GitHubSearchLanguageSteps implements En {
 
     public GitHubSearchLanguageSteps() {
-
+/*
         // Step 1:
         Given("User opens github page 2", () -> {
             open("https://github.com/");
@@ -40,5 +40,7 @@ public class GitHubSearchLanguageSteps implements En {
         Given("Check if repository is displayed 2", () -> {
             new GitHubRepositoryViewPage().checkIfRepositoryOpened();
         });
+        */
+
     }
 }

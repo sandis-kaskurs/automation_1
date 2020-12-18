@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Search Repository" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-16T03:06:47" hostname="Sandiss-MacBook-Pro.local" time="16.498">
+<testsuite name="A description" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T10:41:01" hostname="Sandiss-MBP" time="9.591">
   <properties/>
-  <testcase name="Find a Repository and Open it" classname="Search Repository" time="10.01"/>
-  <testcase name="Find a Repository and Open it" classname="Search Repository" time="3.656"/>
-  <testcase name="Find a Repository and Open it" classname="Search Repository" time="2.832"/>
+  <testcase name="A scenario" classname="A description" time="9.591"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 10 - let's create a new webdriver
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 13 - let's create a new webdriver
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - ====> http://tiny.cc/wdm-survey <====
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/sandis.kaskurs/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
-Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 29561
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 10773
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-Dec 16, 2020 5:06:50 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+Dec 18, 2020 12:41:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO com.codeborne.selenide.webdriver.BrowserResizer - Set browser size to 1366x768
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.12.2
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
-[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 10: ChromeDriver -> ChromeDriver: chrome on MAC (6b8e3d4aede86caa09e1e671060cbe55)
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on MAC (74c427dfdbbbeab21c598de9b8c716c1)
 ]]></system-err>
 </testsuite>

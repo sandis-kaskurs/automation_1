@@ -1,6 +1,6 @@
-githubPages/GitHubHomePage.java
- githubPages.GitHubHomePage
-githubPages/GitHubRepositoryViewPage.java
- githubPages.GitHubRepositoryViewPage
 githubPages/GitHubSearchPage.java
  githubPages.GitHubSearchPage
+githubPages/GitHubRepositoryViewPage.java
+ githubPages.GitHubRepositoryViewPage
+githubPages/GitHubHomePage.java
+ githubPages.GitHubHomePage
