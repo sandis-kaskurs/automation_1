@@ -24,7 +24,7 @@ public class ExploreSectionSteps implements En {
 
         // Step 3:
         Given("User sees all button", () -> {
-            open("https://github.com/");
+            open("https://github.com/"); // edit step 2 and step 3 later when logic is fixed
         });
 
 
